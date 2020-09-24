@@ -2,7 +2,7 @@
 
 ## Deployed Link
 
-heroku link:
+heroku link: https://damp-woodland-82291.herokuapp.com/
 
 ## Description
 
