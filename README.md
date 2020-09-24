@@ -18,7 +18,9 @@ In development
 
 ## Contact
 
-Matthew Nelson
-github username: mnelson86
+Matthew Nelson,
+
+github username: mnelson86,
+
 github email: matthew.p.nelson@uconn.edu
 
